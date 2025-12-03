@@ -2,7 +2,7 @@
 
 ### v30.6 (2025.12.1)
 
-- [MagiskInit] Revert a change that could result in bootloops
+- [MagiskInit] Revert a change that could result in boot loops
 
 ### v30.5 (2025.12.1)
 
